@@ -1,0 +1,7 @@
+# 只追蹤顯卡租借平台的程式碼、README 與作業 PDF
+/*
+!/.gitignore
+!/README.md
+!/gpu-rental/
+!/B11302212 蔡佑澤＿算力顯卡租借平台_作業.pdf
+.DS_Store
